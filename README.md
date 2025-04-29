@@ -11,10 +11,10 @@ This repository contains a full workflow for classifying password strength using
   - `full-password-dataset.csv`
 
 - **images/**  
-  Visualizations related to the confusion matrices and model performance.
+  Images related to the confusion matrices and model performance. Includes a Jupyter Notebook that contains code to create the visualizations.
 
 - **models/**  
-  Exported machine learning models in CSV format.
+  Exported machine learning models as Jupyter Notebooks (.ipynb).
 
 - **reports/**  
   Classification reports and confusion matrices for each model in CSV format.
