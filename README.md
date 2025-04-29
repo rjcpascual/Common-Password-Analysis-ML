@@ -24,7 +24,7 @@ This repository contains a full workflow for classifying password strength using
 
 - **RESULTS.md**  
   Summary of the overall model performance and findings.  
-  [View RESULTS.md here](./RESULTS.md)
+  [View RESULTS here](reports/README.md)
 
 ## Models Implemented
 
