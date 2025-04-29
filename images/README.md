@@ -21,13 +21,6 @@ The notebook expects the following eight CSV files to be available:
 
 All required CSV files can be found in the [reports/](../reports) folder.
 
-### Requirements
-Make sure the following Python libraries are installed:
-- pandas
-- numpy
-- seaborn
-- matplotlib
-
-### Steps to Run
+### Running in Colab
 1. Upload all eight required CSV files from the `reports/` folder into your environment (for example, into Google Colab via the "Files" panel).
 2. Open and run each cell of `visualization_code.ipynb`.
