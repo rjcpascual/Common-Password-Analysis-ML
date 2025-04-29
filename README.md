@@ -1,4 +1,4 @@
-# Password Strength Classification Project
+# Password Strength Classification
 
 This repository contains a full workflow for classifying password strength using machine learning models. The project covers data preprocessing, model training, evaluation, and result analysis.
 
