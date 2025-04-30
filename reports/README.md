@@ -4,6 +4,8 @@ This section summarizes the performance of the four machine learning models used
 
 ## Confusion Matrix Analysis
 
+![confusion_matrix_comparison](https://github.com/user-attachments/assets/341bfe15-ff5d-49c9-85c7-50dcb8921f6b)
+
 The confusion matrices showed:
 
 - **Logistic Regression** and **MLPClassifier** achieved very high classification accuracy with minimal misclassifications.
@@ -11,6 +13,8 @@ The confusion matrices showed:
 - **Gaussian Naive Bayes** performed poorly with a high number of incorrect classifications across classes.
 
 ## Absolute Error Map Analysis
+
+![absolute_error_comparison](https://github.com/user-attachments/assets/209bd223-78e5-49a1-96e7-8526d6cdfe3f)
 
 An absolute error heatmap was generated for each model:
 
